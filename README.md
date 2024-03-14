@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phoenixha4
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on developing projects in web dev and machine learning fields
+- 💞️ I’m looking to collaborate on developing projects of machine learning 
 - 📫 
 
 <!---
